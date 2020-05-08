@@ -1,6 +1,6 @@
 # Deploying a Flask API
 
-https://aa9bbe70e6b9d4c06995a0942f7ab8f9-446035682.eu-west-3.elb.amazonaws.com
+http://aa9bbe70e6b9d4c06995a0942f7ab8f9-446035682.eu-west-3.elb.amazonaws.com
 
 This is the project starter repo for the fourth course in the [Udacity Full Stack Nanodegree](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004): Server Deployment, Containerization, and Testing.
 
